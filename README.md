@@ -24,7 +24,6 @@ Currently, I work as a Front-End Web Developer at Excelerate Consulting. My main
 - React.js
 - TypeScript
 - Tailwind CSS
-- Redux.js
 - Python
 - PostgreSQL
 - MongoDB
